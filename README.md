@@ -15,6 +15,6 @@ Please find  '20240209 Sample Dashboard data.xlsx', 'Assigment_PowerBI.pbix' fil
 
 Attaching screenshots of the dashboards for reference. Please find above or Click <a href='https://github.com/VimalChamyal/Power-BI-Assigment/blob/main/Assigment_PowerBI.pbix'>here</a> for the 'Assigment_PowerBI.pbix' file.
 
-<img width="673" alt="image" src="![image](https://github.com/VimalChamyal/Power-BI-Assigment/assets/101229988/e9fa7ca0-a4bc-48a7-b8da-ae4d16444fdf)">
-<img width="673" alt="image" src="![image](https://github.com/VimalChamyal/Power-BI-Assigment/assets/101229988/d5d34e2a-a65b-48c9-b94d-285b212f85f0)">
+![image](https://github.com/VimalChamyal/Power-BI-Assigment/assets/101229988/e9fa7ca0-a4bc-48a7-b8da-ae4d16444fdf)
+![image](https://github.com/VimalChamyal/Power-BI-Assigment/assets/101229988/d5d34e2a-a65b-48c9-b94d-285b212f85f0)
 
